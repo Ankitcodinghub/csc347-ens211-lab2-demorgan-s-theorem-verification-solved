@@ -1,0 +1,1 @@
+# csc347-ens211-lab2-demorgan-s-theorem-verification-solved
